@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 
-A list of common git commands
+A list of common git commands.
 
 
 ## Basic Commands
