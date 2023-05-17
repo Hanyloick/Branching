@@ -22,3 +22,4 @@ to local repo index.
 * 'git remote add remName remoteUrl' - commit local repo to remote repository.
 'remoteUrl' with shortcut 'remName' for the remote URL.
 * 'git push remName branchName' push local commits to remote branch.
+* 'git pull origin main' - pull remote main into local branch
