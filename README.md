@@ -1,5 +1,7 @@
 # Git Cheat Sheet
 
+A list of common git commands.
+
 ## Basic Commands
 * 'git init' - initializes local repository.
 * 'git add .' - add (stage) current working folder content
@@ -17,6 +19,8 @@ to local repo index.
 * 'git branch -m newName' - rename current local branch.
 * 'git branch newName' - create new local branch.
 * 'git checkout branchName' - move to local branches.
+* 'git branch' - list local branches
+* 'git branch -m newName' - rename current local branch.
 
 ## Remote Commands
 * 'git remote add remName remoteUrl' - commit local repo to remote repository.
