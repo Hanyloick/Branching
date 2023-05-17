@@ -13,7 +13,12 @@ to local repo index.
 
 
 ## Branch Commands
-* 'git branch' - list local branches
-* 'git branch -m newName' - rename current local branch
-* 'git branch newName' - create new local branch
+* 'git branch' - list local branches.
+* 'git branch -m newName' - rename current local branch.
+* 'git branch newName' - create new local branch.
 * 'git checkout branchName' - move to local branches.
+
+## Remote Commands
+* 'git remote add remName remoteUrl' - commit local repo to remote repository.
+'remoteUrl' with shortcut 'remName' for the remote URL.
+* 'git push remName branchName' push local commits to remote branch.
