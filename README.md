@@ -15,4 +15,4 @@ to local repo index.
 ## Branch Commands
 * 'git branch' - list local branches
 * 'git branch -m newName' - rename current local branch
-* '' -
+* 'git checkout branchName' - move to local branchs
