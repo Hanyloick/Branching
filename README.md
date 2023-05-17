@@ -1,5 +1,8 @@
 # Git Cheat Sheet
 
+A list of common git commands
+
+
 ## Basic Commands
 * 'git init' - initializes local repository.
 * 'git add .' - add (stage) current working folder content
